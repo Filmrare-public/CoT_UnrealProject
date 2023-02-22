@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "937975139185",
+    "firebase_url": "https://decentraland-cot-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "decentraland-cot-database",
+    "storage_bucket": "decentraland-cot-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937975139185:android:5b6b762e218d3c53af84d0",
+        "android_client_info": {
+          "package_name": "com.filmrare.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937975139185-irvgspq16t250tfiecihf3n2vuiqa5ji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvCcNwV1_hetIgGFr0GtJoEazXkh3lYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937975139185-irvgspq16t250tfiecihf3n2vuiqa5ji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
