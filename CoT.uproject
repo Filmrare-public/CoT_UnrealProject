@@ -42,7 +42,7 @@
 		},
 		{
 			"Name": "ReadyPlayerMe",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "glTFRuntime",
