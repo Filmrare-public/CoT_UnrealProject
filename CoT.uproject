@@ -24,30 +24,22 @@
 			"Enabled": true
 		},
 		{
-			"Name": "PixelStreaming",
-			"Enabled": true
-		},
-		{
-			"Name": "PixelStreamingPlayer",
-			"Enabled": true
-		},
-		{
 			"Name": "Text3D",
 			"Enabled": true
 		},
 		{
-			"Name": "FBP",
+			"Name": "OpenXR",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6805c8b574514c7d96ab081d52330da5"
-		},
-		{
-			"Name": "ReadyPlayerMe",
-			"Enabled": true
-		},
-		{
-			"Name": "glTFRuntime",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d2ed3709933d4608a3a8dd746cbc045d"
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
